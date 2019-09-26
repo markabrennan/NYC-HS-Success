@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-
+# ignore the "old/" dir
+old/
 
 # ignore pickle and json
 *.pkl
