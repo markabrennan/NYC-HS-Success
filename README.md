@@ -53,7 +53,9 @@ weighted avg       0.52      0.51      0.51       245
 
 ### Decision Tree
 
-Decision Tree yielded fairly good results, and of course it is an interpretable model - we can see which features drive the bulk of its classification prediction (below):
+Decision Tree yielded fairly good results, and of course it is an interpretable model - we can see which features drive the bulk of its classification prediction (below).
+
+#### Score/Accuracy
 
 ==================================================
 
@@ -80,12 +82,15 @@ All     109  136  245
    macro avg       0.83      0.83      0.83       245
 weighted avg       0.83      0.83      0.83       245
 
+#### Feature Selection
 ![](/plots/tree_features.png)
 
 
 ### Random Forest
 
-Random Forest improved the classification prediction results, while also preserving interpretability:
+Random Forest improved the classification prediction results, while also preserving interpretability.
+
+#### Score/Accuracy
 
 ==================================================
 
@@ -113,6 +118,7 @@ All     119  126  245
 weighted avg       0.85      0.85      0.85       245
 
 
+#### Feature Selection
 ![](/plots/forest.png)
 
 
