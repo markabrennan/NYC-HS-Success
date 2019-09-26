@@ -1,6 +1,6 @@
 # NYC-HS-Success
 
-This project attempts to classify “successful” NYC public high schools, using a rich array of school quality data provided by the DOE, and predicting target classifications based on a high school being above (successful) or below (not successful) the mean NYC HS graduation rate.
+This project attempts to classify “successful” NYC public high schools, using a rich array of school quality data provided by the DOE.  I attempt to predicting target classifications based on a high school being above (successful) or below (not successful) the mean NYC HS graduation rate.
 
 ## Tech Stack
 - Python
