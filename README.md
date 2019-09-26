@@ -83,7 +83,7 @@ All     109  136  245
 weighted avg       0.83      0.83      0.83       245
 
 #### Feature Selection
-![](/plots/tree_features.png)
+![](/plots/decision_tree_features.png)
 
 ### Random Forest
 
