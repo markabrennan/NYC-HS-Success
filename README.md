@@ -85,7 +85,6 @@ weighted avg       0.83      0.83      0.83       245
 #### Feature Selection
 ![](/plots/tree_features.png)
 
-
 ### Random Forest
 
 Random Forest improved the classification prediction results, while also preserving interpretability.
