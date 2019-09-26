@@ -20,7 +20,11 @@ There was a fairly even distribution of “successful” and non-successful high
 
 ## Modeling
 
-A baseline “dummy” model yielded the following results:
+### Baseline
+
+As baseline "dummy" model yielded the following results:
+
+
 ==================================================
 STRATIFIED DUMMY CLASSIFIER
 
@@ -46,9 +50,11 @@ All     138  107  245
 weighted avg       0.52      0.51      0.51       245
 
 
+### Decision Treet
 
 Decision Tree yielded fairly good results, and of course it is an interpretable model - we can see which features drive the bulk of its classification prediction (below):
 
+==================================================
 DECISION TREE
 
 
@@ -74,6 +80,8 @@ weighted avg       0.83      0.83      0.83       245
 
 ![](/plots/tree_features.png)
 
+
+### Random Forest
 
 Random Forest improved the classification prediction results, while also preserving interpretability:
 
